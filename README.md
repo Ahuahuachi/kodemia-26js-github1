@@ -4,5 +4,4 @@ Primer repositorio de github Gen 26JS de Kodemia
 
 Esta nueva edición esta siendo hecha de manera local
 
-otro cambio
-otro cambio mas
+Esta nueva edición esta siendo hecha en github
